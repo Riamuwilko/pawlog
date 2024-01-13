@@ -15,13 +15,13 @@ Paw Log is a comprehensive solution designed to address the needs of pet owners 
 
 ## Features Checklist
 The following features are essential for Pawlog to achieve its status as a minimal viable product. While additional features may be incorporated over time, our primary objective is to maintain a concise list. Pawlog is presently in its proof-of-concept stage, and upon meeting all requirements, the project will be deemed complete.
--[ ] Landing Page
--[ ] User Authenication / Login
--[ ] Pet Dashboard
--[ ] Pet Creation
--[ ] Pet Profile 
--[ ] Pet Calorie Tracking 
--[ ] Pet Deletion 
+- [x] Landing Page
+- [ ] User Authenication / Login
+- [ ] Pet Dashboard
+- [ ] Pet Creation
+- [ ] Pet Profile 
+- [ ] Pet Calorie Tracking 
+- [ ] Pet Deletion 
 
 ## Installation
 Paw Log will be hosted live here: WIP
