@@ -16,7 +16,7 @@ Paw Log is a comprehensive solution designed to address the needs of pet owners 
 ## Features Checklist
 The following features are essential for Pawlog to achieve its status as a minimal viable product. While additional features may be incorporated over time, our primary objective is to maintain a concise list. Pawlog is presently in its proof-of-concept stage, and upon meeting all requirements, the project will be deemed complete.
 - [x] Landing Page
-- [ ] User Authenication / Login
+- [x] User Authenication / Login
 - [ ] Pet Dashboard
 - [ ] Pet Creation
 - [ ] Pet Profile 
@@ -24,7 +24,7 @@ The following features are essential for Pawlog to achieve its status as a minim
 - [ ] Pet Deletion 
 
 ## Installation
-Paw Log will be hosted live here: WIP
+Paw Log will be hosted live here: https://pawlog.vercel.app/
 
 Until the website is deployed, Paw Log will be hosted on the Development Server
 ```bash
